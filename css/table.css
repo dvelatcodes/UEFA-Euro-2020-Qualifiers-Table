@@ -1,0 +1,38 @@
+body {
+    background: rgb(244, 237, 236);
+    height: fit-content;
+    padding-bottom: 1rem;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    background: rgb(202, 202, 202);
+}
+td{
+    border: 1px solid grey;
+    padding: 0 1rem 0 1rem;
+}
+.red{
+    background-color: lightgreen;
+}
+.black{
+    background-color: lightblue; 
+}
+
+.plain{
+    background: white;
+    border-top: none;
+}
+
+.plain2{
+    background: white;
+    border: none;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+    margin-top: 0.5rem;
+}
